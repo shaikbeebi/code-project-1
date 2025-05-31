@@ -45,15 +45,3 @@ public class Main {
         }
     }
 }
-output:-
-Choose an operation:
-1. +
-2. -
-3. *
-4. /
-Enter your choice: 3
-Enter the first number: 4
-Enter the second number: 5
-The result is: 20
-
-=== Code Execution Successful ===
