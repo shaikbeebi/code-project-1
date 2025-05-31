@@ -33,17 +33,3 @@ class Main {
        System.out.println("the result is:"+result);
     }
 }
-Output:-
-1.+
- 2.-
- 3.*
- 4./
-Enter a choice
-1
-Enter the first input:
-45
-Enter the second input:
-65
-the result is:110
-
-=== Code Execution Successful ===
