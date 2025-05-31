@@ -54,13 +54,3 @@ public class Calculator {
         scanner.close();
     }
 }
-output:-
-Enter first number: 10
-Enter an operator (+, -, *, /): /
-Enter second number: 0
-ERROR!
-Error: Division by zero is not allowed.
-Enter second number: 6
-Result: 1.6666666666666667
-
-=== Code Execution Successful ===
